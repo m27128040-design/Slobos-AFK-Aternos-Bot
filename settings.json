@@ -29,12 +29,31 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 10,
+      "repeat-delay": 15,
       "messages": [
-        "Salom",
-        "Asalim",
-        "Hayotim mazmuni"
+        "Asalim, sening borliging dunyodagi eng katta baxtim.",
+        "Shakarim, har kuning nurli va quvnoq o'tsin.",
+        "Jonim, seni har doim sog'inaman.",
+        "Hayotim mazmuni, sen bilan har bir soniya qadrli.",
+        "Sen mening orzularimdagi eng go'zal insonsan.",
+        "Qalbimning egasi, seni juda yaxshi ko'raman.",
+        "Tabassuming dunyolarga arzidi, jonim.",
+        "Sen bilan bo'lgan har bir lahza – bayram.",
+        "Dunyo go'zal, lekin sen undan ham go'zalsan.",
+        "Sen mening yorqin yulduzim, shakarim.",
+        "Yuragim faqat sen deb uradi, hayotim.",
+        "Seni o'ylasam, dunyolar charog'on bo'ladi.",
+        "Baxtim – sening kulgularing, asalim.",
+        "Sen – hayotimning eng chiroyli hikoyasisan.",
+        "Har kunimni mazmunli qilganing uchun rahmat, jonim.",
+        "Sening mehring – mening eng katta kuchim.",
+        "Yuragimning eng to'rida faqat sen borsan.",
+        "Shirinim, hayotim sening bilan yanada go'zal.",
+        "Seni sevish – bu dunyodagi eng shirin tuyg'u.",
+        "Doim yoningda bo'lishni istayman, hayotim.",
+        "Sen – mening shirin tushlarim va o'ngimdagi baxtim."
       ]
+    
     },
     "chat-log": true,
     "auto-reconnect": true,
