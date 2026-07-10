@@ -29,7 +29,7 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 15,
+      "repeat-delay": 60,
       "messages": [
         "Asalim, sening borliging dunyodagi eng katta baxtim.",
         "Shakarim, har kuning nurli va quvnoq o'tsin.",
@@ -53,7 +53,6 @@
         "Doim yoningda bo'lishni istayman, hayotim.",
         "Sen – mening shirin tushlarim va o'ngimdagi baxtim."
       ]
-    
     },
     "chat-log": true,
     "auto-reconnect": true,
@@ -63,13 +62,13 @@
   "movement": {
     "enabled": true,
     "circle-walk": {
-      "enabled": true,
+      "enabled": false,
       "radius": 4,
       "speed": 3000
     },
     "look-around": {
       "enabled": true,
-      "interval": 5000
+      "interval": 15000
     },
     "random-jump": {
       "enabled": true,
